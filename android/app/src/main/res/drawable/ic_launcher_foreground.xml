@@ -1,0 +1,13 @@
+﻿<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Leaf -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M36,72 C36,47 48,36 73,36 C73,61 62,72 36,72 Z" />
+    <!-- Stem -->
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="3.5" android:strokeLineCap="round"
+        android:pathData="M36,72 L31,77" />
+    <!-- Ledger veins -->
+    <path android:strokeColor="#FF2E7D4F" android:strokeWidth="2.6" android:strokeLineCap="round"
+        android:pathData="M40,68 L67,41 M47,61 L47,52 M54,54 L54,45 M47,61 L56,61 M54,54 L63,54" />
+</vector>
